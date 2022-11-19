@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/https://dipendudas73.github.io/testwordpress/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://dipendudas73.github.io/testwordpress</link>
+	<atom:link href="https://dipendudas73.github.io/testwordpress/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dipendudas73.github.io/testwordpress</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 19 Nov 2022 07:21:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
